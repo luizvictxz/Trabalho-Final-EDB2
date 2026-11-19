@@ -1,0 +1,6 @@
+build/
+dados/
+resultados/
+slides/
+.venv/
+*.o
